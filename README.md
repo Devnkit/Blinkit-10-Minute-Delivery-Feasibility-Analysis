@@ -129,6 +129,3 @@ Build a real-time dashboard using Streamlit or Dash.
 Add time-series forecasting for demand planning.
 
 ---
-
-🔗 Project Links
-[Link Text](https://github.com/Devnkit/Blinkit-10-Minute-Delivery-Feasibility-Analysis/tree/main)
