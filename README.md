@@ -131,4 +131,4 @@ Add time-series forecasting for demand planning.
 ---
 
 🔗 Project Links
-[Link Text]()
+[Link Text](https://github.com/Devnkit/Blinkit-10-Minute-Delivery-Feasibility-Analysis/tree/main)
